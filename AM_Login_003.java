@@ -23,6 +23,6 @@ public class AM_Login_003 extends BaseDev {
 
 		ProductPage pp = new ProductPage(driver);
 		pp.productDiscription();
-	//	Assert.fail("This case is fail");
+	    Assert.fail("This case is fail");
 	}
 }
